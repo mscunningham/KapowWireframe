@@ -1,0 +1,25 @@
+/*Use this for custom stuff*/
+
+
+body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.header {
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 20px;
+	padding-bottom: 25px;
+}
+
+.header,
+.marketing {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.footer {
+	border-top: 1px solid #ccc;
+	margin-top: 20px;
+	padding-top: 25px;
+}
