@@ -39,3 +39,8 @@
 	background-position: center;
 	background-size: 100%;
 }
+
+.strips img {
+
+	overflow: hidden;
+}
